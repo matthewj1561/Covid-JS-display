@@ -1,0 +1,20 @@
+
+article {
+    margin: 10px;
+    border-style: solid;
+}
+
+body {
+    font-family: 'Kalam', cursive;
+    text-align: center;
+}
+
+div {
+    margin: 10px;
+    text-align: center;
+}
+
+#display {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
